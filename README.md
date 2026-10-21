@@ -1,1 +1,3 @@
-# AyrikMatematik4.HaftaOdev
+# Ayrık Matematik 4.Hafta Ödevi
+
+Ayrık Matematik 4. hafta çalışması olarak hazırlanan bu depoda; küme kavramı, alt küme/özalt küme bağıntıları, küme operasyonları (kesişim, birleşim, fark, tümleyen) ve kümelerin bilgisayarla bit dizisi (bit vector) temsili yer almaktadır. Dokümanda ayrıca kombinatorik alt küme analizleri, sayı aralıkları kesişimi ve gizemli küme gibi özgün problem çözümleri ayrıntılı adımlarla ele alınmıştır. Matematiksel mantığın veri temsili ve yazılım temelleriyle olan ilişkisini pekiştirmek amacıyla hazırlanmış bir çalışmadır. Dersi alan veya temel veri yapılarına hazırlananlar için faydalı bir kaynak olması dileğiyle; incelemelere, düzeltmelere ve katkılara açıktır.
